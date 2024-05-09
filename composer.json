@@ -1,5 +1,5 @@
 {
-    "name": "laminas-api-tools/api-tools-versioning",
+    "name": "rnd-cosoft/api-tools-versioning",
     "description": "Laminas Module providing listeners and route prototypes for implementing API versioning",
     "license": "BSD-3-Clause",
     "keywords": [
