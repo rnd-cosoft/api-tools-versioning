@@ -47,6 +47,9 @@
         "psalm/plugin-phpunit": "^0.16.1",
         "vimeo/psalm": "^4.13.1"
     },
+    "replace": {
+        "laminas-api-tools/api-tools-versioning": "*"
+    },
     "autoload": {
         "psr-4": {
             "Laminas\\ApiTools\\Versioning\\": "src/"
